@@ -5,7 +5,6 @@ public class Main {
         System.out.println("Before sort:");
         sia.print();
 
-
         System.out.println("After sort:");
         sia.sort();
         sia.print();
