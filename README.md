@@ -1,5 +1,6 @@
-# cosc499_exercise
-Individual git exercise
+# Cosc499_exercise
+Individual git exercise that focuses on features.
+For this example a simple array classes were made as independent features.
 
 
 ## Sortable String Array Feature
