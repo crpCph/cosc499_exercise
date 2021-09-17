@@ -1,12 +1,12 @@
 public class Main {
     public static void main(String[] args){
-        SortStringArray sta = new SortStringArray(40);
+        SortIntArray sia = new SortIntArray(20);
 
         System.out.println("Before sort:");
-        sta.print();
+        sia.print();
 
         System.out.println("After sort:");
-        sta.sort();
-        sta.print();
+        sia.sort();
+        sia.print();
     }
 }
