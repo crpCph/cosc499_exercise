@@ -15,10 +15,13 @@ public class Main {
         //String Array
         SortStringArray sta = new SortStringArray(40);
 
+
+
         System.out.println("Before sort:");
         sta.print();
-
         System.out.println("After sort:");
+
+        //sorting
         sta.sort();
         sta.print();
 
